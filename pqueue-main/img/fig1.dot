@@ -1,0 +1,8 @@
+digraph G {
+  3 -> 10;
+  {edge [style=invis] 3 -> {a [style=invis]};}
+  3 -> 4;
+  10 -> 16;
+  {edge [style=invis] 10 -> {b [style=invis]};}
+  {edge [style=invis] 10 -> {c [style=invis]};}
+}
