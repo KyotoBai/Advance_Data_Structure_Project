@@ -1,3 +1,2 @@
-# CMSC420-Project
-Yuchen Liu
+# advance data structure
 Fall 2022
